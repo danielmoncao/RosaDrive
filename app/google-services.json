@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "831781314893",
+    "firebase_url": "https://rosadrive-a6cfb.firebaseio.com",
+    "project_id": "rosadrive-a6cfb",
+    "storage_bucket": "rosadrive-a6cfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831781314893:android:cb9580f7b90e1c65",
+        "android_client_info": {
+          "package_name": "om.applicando.rosadrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831781314893-137s48b9mrki4j9ijqtam74jlf28c5b6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "om.applicando.rosadrive",
+            "certificate_hash": "c260fcd0587319196a399e9be816bc60ec5320dd"
+          }
+        },
+        {
+          "client_id": "831781314893-hfadiip1feicistgf1m83vah8p3hu94a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWxxyJJaH4Jy7F9xmymp2GHGUM6ZtKF5s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831781314893-hfadiip1feicistgf1m83vah8p3hu94a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
